@@ -1,0 +1,46 @@
+class personne{
+    //les attributs
+    private string prenom, nom;
+     private int numerosecu
+    string telephone;
+
+    public personne( string prenom, string nom, int ns, string tel){
+        this.prenom = prenom;
+        this.nom = nom;
+        this.numerosecu = ns;
+        this.telephone = tel;
+    }
+
+    //accesseurs ou getteurs
+    public string getprenom(){
+        return this.prenom;
+    }
+    public string getnom(){
+        return this.nom
+    }
+    public int getnumerosecu(){
+        return this.numerosecu;
+    }
+    public string gettelephone(){
+        return this.telephone;
+    }
+    //modificateurs ou setteurs
+    public void settelephone(string new_number){
+        this.telephone = new_number;
+        system.out.println("le numero de telephonea ete mis a jour");
+    }
+
+    public void afficherPersonne(){
+        systeme.out.println("...............");
+        systeme.out.println("prenom  :"+prenom);
+        systeme.out.println("Nom  :"+nom);
+        systeme.out.println("NSS  :"+prenom);
+        systeme.out.println("prenom  :"+numerosecu);
+        systeme.out.println("Telephonee  :"+telephone);
+        systeme.out.println("....................");
+    }
+}
+
+
+
+

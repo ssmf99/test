@@ -1,0 +1,24 @@
+import java.util.scanner;
+public class TestPersonne{
+    public static void main(string[]args){
+        //les variables
+        string prenom, nom, telephone;
+        int numerosecu;
+
+        scanner clavier = new scanner(system.in);
+        //lecture des donnees au clavier
+        system.out.println("donner les infos suivantes:")
+        system.out.println("le nom:")
+        nom = clavier.nextline();
+        system.out.println("le numero de secu:")
+        numerosecu = clavier.nextInt();
+        //creations d'INSTANCE DE PERSSONNE
+        personne p1 =  new personne(prenom, nom, numerosecu, telephone);
+        personne p2 =  new personne("fatou", "sall", "120054", "775654323")
+        //manupilations des methodes de la classe
+        p1.getnom();
+        p2.getTelephone("1111122222")
+        p1.afficherPersonne();
+        p2.();
+    }
+}

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap-4.6.1-dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css.css" type="text/css">
+    <title>Projets Operationels</title>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+    <section class="bg-warning"><br>
+        <div class="container bg-dark text-white">
+            <h3>
+                <div class="row">
+                    <div class="col bg-white rounded-circle text-dark">
+                        <center>ANATA FAYE</center><br>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-4">
+                        <center><img src="images/coiffeuse3.jpg" class="rounded-circle bg-dark" width="250" height="250">
+                        </center>
+
+                    </div>
+                    <div class="col-4 bg-white text-dark rounded"><BR>
+
+                        <BR>
+                        <CENTER>
+                            <h5>ANTA FAYE</h5>
+                        </CENTER>
+                        <CENTER>
+                            <h4>COIFFEUSE TRADITIONNELLE</h4>
+                            <p> TEL: 77 742 03 88</p>
+                            <h5>ANTAFAYE76@gmail.com</h5>
+                    </div>
+                    <p>
+
+                    </p>
+                    <div class="col-3 bg-white text-dark">
+                        <h5>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione.
+                            Consequatur voluptatibus esse quae neque praesentium officiis optio, adipisci quo,
+                            dolorem qui consectetur distinctio illum sit quasi, ipsum soluta error!</h5>
+                    </div>
+                </div>
+
+        </div>
+        </h3>
+        </div><br><br>
+        <div class="container bg-dark text-white rounded-pill">
+            <h1>
+                <center><strong>Voici les realisations de Ousmane Diop</strong> </center>
+            </h1>
+        </div>
+        <div class="container bg-white">
+            <div class="row">
+                <div class="col-5 ">
+                    <img src="images/COIFFURE5.png" class="rounded" width="400" height="400" alt="mass">
+                </div>
+                <div class="col-6 bg-dark text-white">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quaerat ducimus
+                        molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                        aspernatur
+                        dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet consectetur
+                        adipisicing elit. Ipsam quaerat ducimus
+                        molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                        aspernatur
+                        dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet consectetur
+                        adipisicing elit. Ipsam quaerat ducimus
+                        molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                        aspernatur
+                        dignissimos laborum hic odio mollitia molestiae dolordignissimos laborum hic odio mollitia
+                        molestiae dolor.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quaerat ducimus
+                        molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                        aspernatur
+                        dignissimos laborum hic odio mollitia molestiae dolor.</p>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-5 ">
+                        <img src="images/COIFFURE6.png" class="rounded" width="400" height="400" alt="mass">
+                    </div>
+                    <p>
+                    <div class="col-6 bg-warning text-dark">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quaerat ducimus
+                            molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                            aspernatur
+                            dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Ipsam quaerat ducimus
+                            molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                            aspernatur
+                            dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Ipsam quaerat ducimus
+                            molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                            aspernatur
+                            dignissimos laborum hic odio mollitia molestiae dolordignissimos laborum hic odio mollitia
+                            molestiae dolor.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quaerat
+                            ducimus
+                            molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                            aspernatur
+                            dignissimos laborum hic odio mollitia molestiae dolor.</p>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="col-5 ">
+                            <img src="images/COIFFURE9.png" class="rounded" width="400" height="400" alt="mass">
+                        </div>
+                        <div class="col-6 bg-dark text-white">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quaerat ducimus
+                                molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                                aspernatur
+                                dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet
+                                consectetur adipisicing elit. Ipsam quaerat ducimus
+                                molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                                aspernatur
+                                dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet
+                                consectetur adipisicing elit. Ipsam quaerat ducimus
+                                molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                                aspernatur
+                                dignissimos laborum hic odio mollitia molestiae dolordignissimos laborum hic odio
+                                mollitia molestiae dolor.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
+                                quaerat ducimus
+                                molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus dolores
+                                aspernatur
+                                dignissimos laborum hic odio mollitia molestiae dolor.</p>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-5 ">
+                                <img src="images/COIFFEUSE8.png" class="rounded" width="400" height="400" alt="mass">
+                            </div>
+                            <div class="col-6 bg-warning text-dark">
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam quaerat ducimus
+                                    molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus
+                                    dolores aspernatur
+                                    dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet
+                                    consectetur adipisicing elit. Ipsam quaerat ducimus
+                                    molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus
+                                    dolores aspernatur
+                                    dignissimos laborum hic odio mollitia molestiae dolor.Lorem ipsum dolor sit amet
+                                    consectetur adipisicing elit. Ipsam quaerat ducimus
+                                    molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus
+                                    dolores aspernatur
+                                    dignissimos laborum hic odio mollitia molestiae dolordignissimos laborum hic odio
+                                    mollitia molestiae dolor.Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Ipsam quaerat ducimus
+                                    molestias voluptate suscipit quo iure nostrum dolore rerum cupiditate? Ducimus
+                                    dolores aspernatur
+                                    dignissimos laborum hic odio mollitia molestiae dolor.</p>
+
+                            </div>
+</body>
+
+</html>

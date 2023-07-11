@@ -1,0 +1,8 @@
+"""
+Boucle for
+__author__ ="saliou fall"
+__version__=1.0""
+"""
+#afficehr les valeurs 0 a 10
+for i in range(11):
+    print(i)
